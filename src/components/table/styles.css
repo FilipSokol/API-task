@@ -1,0 +1,10 @@
+.modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalTable {
+  margin: 16px;
+  max-width: 1000px;
+}
